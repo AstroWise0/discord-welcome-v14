@@ -1,0 +1,28 @@
+{
+  "name": "discord-welcome-bot",
+  "version": "1.0.0",
+  "description": "Astro Welcome Botu",
+  "main": "astro.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "welcome"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.18.0",
+    "bottleneck": "^2.19.5",
+    "discord.js": "^14.18.0",
+    "ffmpeg": "^0.0.4",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}

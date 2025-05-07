@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    ""], //Botun Tokeni
+  
+  "channels": [
+    ""], //Botun Bağlanacağı Kanal ID
+
+  "staffRoles": [
+    ""], //Yetkili Rolü ID
+
+  "unregisterRoles": [
+    ""], //Kayıtsız Rolü ID
+
+  "rateLimit": {
+  "minTime": 200
+},
+  
+  "welcomeSound": "hosgeldin.mp3",
+  "staffSound": "yetkili.mp3"
+}
